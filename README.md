@@ -1,0 +1,2 @@
+# PyHelper
+PyHelper is an open-source instrument which is intended to help Python users to write codes more conveniently and more efficiently, to write the intricate plotting setting codes with a neat GUI interface, for example.  The project is just at the beginning and is in the ongoing development, so contact me if you want to contribute to it or you have any idea of new features you want to add to PyHelper.  Since I'm an undergraduate student, it must be a long process to develop the program. So your contribution is of great importance!
