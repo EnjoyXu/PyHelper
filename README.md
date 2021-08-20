@@ -101,7 +101,7 @@ See the example in [matpotlib gallary](https://matplotlib.org/stable/gallery/sub
 
 
 
-<img src="D:\Source\For_Edu\NS\PyHelper\Instruments\Readmefigures\Subplots.gif" alt="Subplots" style="zoom:70%;" />
+<img src="https://github.com/EnjoyXu/PyHelper/blob/main/Instruments/Readmefigures/Subplots.gif" alt="Subplots" style="zoom:70%;" />
 
 After pressing "OK" button, we get the following codes in our **clipboard**.
 
