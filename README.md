@@ -172,6 +172,7 @@ ax5 = fig.add_subplot(gs[2:3, 1:2])
    
 
 3. Universal Settings
+
    1. Figure
       1. Title
       2. Color (of the data)
